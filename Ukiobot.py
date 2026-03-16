@@ -12,7 +12,7 @@ from telegram.ext import (
     filters
 )
 
-TOKEN = os.environ.get("TELEGRAM_TOKEN")
+TOKEN = "8711612037:AAFSOm_3NZBniSEqzhVuv-ngFYZpItl0W-Q"
 
 # ===== PATH TO DATABASE =====
 BASE_DIR = os.path.expanduser("~/Desktop")
